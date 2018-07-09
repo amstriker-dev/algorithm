@@ -1,6 +1,5 @@
-# KeyValue Application
+# Fibonanic & Sort & Matrix Application
 
-Build a Restful API for a simple application using Node.js, Express and MongoDB.
 
 ## Steps to Setup
 
